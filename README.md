@@ -2,6 +2,7 @@
 
 Library and header files for the [Epicinium](https://epicinium.nl) automaton,
 which implements Epicinium's game logic to calculate subsequent game states.
+
 Dependency for [Epicinium-NeuralNewt](https://github.com/abunchofhacks/Epicinium-NeuralNewt),
 a framework for training neural networks to play Epicinium with evolutionary training techniques.
 
@@ -14,9 +15,9 @@ Contact us at [info@epicinium.nl](mailto:info@epicinium.nl).
 
 ## Contents
 
-* `epicinium-automaton.a`, a library implementing the latest Epicinium automaton compiled for 64-bit Linux (Debian-based).
-* `epicinium-automaton.lib`, a library implementing the latest Epicinium automaton compiled for 64-bit Windows.
-* Header files for the classes and methods implemented by this library.
+* `bin/epicinium-automaton.a`, a library implementing the latest Epicinium automaton compiled for 64-bit Linux (Debian-based).
+* `bin/epicinium-automaton.lib`, a library implementing the latest Epicinium automaton compiled for 64-bit Windows.
+* In `include/`, header files for the classes and methods implemented by this library.
 
 ## License
 
