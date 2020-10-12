@@ -46,6 +46,7 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Related repositories
 
+*  [Epicinium](https://github.com/abunchofhacks/Epicinium), the full source code for Epicinium
 *  [Epicinium documentation](https://github.com/abunchofhacks/epicinium-documentation), which includes a wiki and a tutorial for Epicinium
 *  [Epicinium-NeuralNewt](https://github.com/abunchofhacks/Epicinium-NeuralNewt), a libtorch framework for training neural networks to play Epicinium via NeuralNewt, a parameterized decision tree AI, with evolutionary training techniques
 *  [Epicinium-lib-rs](https://github.com/abunchofhacks/Epicinium-NeuralNewt-automatonlib), Rust bindings for libepicinium, the game logic library of Epicinium
